@@ -1,6 +1,6 @@
 ## Calculating deforestation rate for selected Tropical Forest sites🌳📈
 
-![](image/annual_change_2022_cropped_to_content.png)
+![](image/annual_change_2022_cropped_to_content.jpg)
 
 #### Goal: 
 to compare deforestation rates of the REDD+ research sites and their vicinities over the period of 2009-2022
